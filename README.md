@@ -41,7 +41,7 @@ This project implements the **K-Nearest Neighbors (KNN)** algorithm from scratch
 3. Compute Euclidean distance between test and training samples
 4. Select **k nearest neighbors**
 5. Use **majority voting** to predict label
-
+6. download the dataset from https://github.com/phoebetronic/mnist
 ---
 
 ## 📈 Accuracy
